@@ -1,0 +1,19 @@
+{
+  "name": "ntudp-date-me-bot",
+  "version": "0.0.0",
+  "description": "NTUDP DateMe bot",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^5.2.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22"
+  }
+}

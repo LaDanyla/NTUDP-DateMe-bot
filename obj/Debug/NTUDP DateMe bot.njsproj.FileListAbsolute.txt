@@ -1,0 +1,6 @@
+C:\Users\Данил\source\repos\NTUDP DateMe bot\obj\Debug\NTUDP DateMe bot.njsproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\NTUDP DateMe bot\obj\Debug\NTUDP DateMe bot.njsproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\NTUDP DateMe bot\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\danil\source\repos\NTUDP DateMe bot\obj\Debug\NTUDP DateMe bot.njsproj.AssemblyReference.cache
+C:\Users\danil\source\repos\NTUDP DateMe bot\obj\Debug\NTUDP DateMe bot.njsproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\NTUDP DateMe bot\bin\Microsoft.NodejsTools.WebRole.dll
